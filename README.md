@@ -8,7 +8,7 @@ Además, estoy estudiando Laravel y React.js para profundizar en el desarrollo d
 
 - 🎓 Graduado en la Tecnicatura Universitaria en Programación
 - 💻 Lenguajes de programación: PHP, Java, C#, C, HTML, CSS y JS
-- 🌱 Actualmente estudiando Laravel para desarrollo web
+- 🌱 Actualmente estudiando Laravel y React.js para desarrollo web
 - 📫 Puedes contactarme en lucianogatti.lkdin@gmail.com 
 
 ¡Gracias por visitar mi perfil! Siempre estoy abierto a nuevas oportunidades y colaboraciones.
