@@ -9,7 +9,7 @@ I am currently focused on expanding my knowledge in Cloud Computing, microservic
 
 - 📫 How to reach me **lucianogatti.lkdin@gmail.com**
 
-- 📄 Know about my experiences [CV Backend Developer](https://drive.google.com/drive/folders/1NU2JPGQNKttm2UuMjcAxafZOh9t6xdkw?dmr=1&ec=wgc-drive-globalnav-goto)
+- 📄 Know about my experiences [CV Backend Developer](https://drive.google.com/file/d/14UCCkPFckARB6e_M47kdKrF0XhXDK_co/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
