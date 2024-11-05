@@ -25,7 +25,6 @@ I am currently focused on expanding my knowledge in Cloud Computing, microservic
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luciano-gatti&" alt="luciano-gatti" /></p>
 
-¡Gracias por visitar mi perfil! Siempre estoy abierto a nuevas oportunidades y colaboraciones.
 
 <!---
 Luciano-Gatti/Luciano-Gatti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
