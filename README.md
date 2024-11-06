@@ -6,10 +6,10 @@ I am currently focused on expanding my knowledge in Cloud Computing, microservic
 <br>
 <br>
 <h1>💫 About Me:</h1>
-<br>🔭 I’m currently working on a desktop application for a nurse plants "RAYZ-Plants", with javaFX, SpringBoot and PostgresQL.<br>
+<br>🔭 I’m currently working on a desktop application for a nurse plants "RAYZ-Plants", with JavaFX, SpringBoot and PostgresQL.<br>
 <br>🌱 I’m currently learning Cloud computing with AWS, Azure and GCP and NoSQL databases like MongoDB.<br>
 <br>📫 How to reach me lucianogatti.lkdin@gmail.com<br>
-<br>📄 Know about my experiences [CV Backend Developer](https://drive.google.com/file/d/14UCCkPFckARB6e_M47kdKrF0XhXDK_co/view?usp=sharing)
+<br>📄 Know about my experiences <a href="https://drive.google.com/file/d/14UCCkPFckARB6e_M47kdKrF0XhXDK_co/view?usp=sharing" target="_blank">CV Backend Developer</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
