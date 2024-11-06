@@ -5,7 +5,7 @@ I am currently focused on expanding my knowledge in Cloud Computing, microservic
 
 <br>
 <br>
-# 💫 About Me:
+<h1>💫 About Me:</h1>
 <br>🔭 I’m currently working on a desktop application for a nurse plants "RAYZ-Plants", with javaFX, SpringBoot and PostgresQL.<br>
 <br>🌱 I’m currently learning Cloud computing with AWS, Azure and GCP and NoSQL databases like MongoDB.<br>
 <br>📫 How to reach me lucianogatti.lkdin@gmail.com<br>
