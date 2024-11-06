@@ -13,7 +13,8 @@ I am currently focused on expanding my knowledge in Cloud Computing, microservic
 <p align="left">
 <a href="https://www.linkedin.com/in/luciano-gatti-software-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano gatti" height="30" width="40" /></a>
 </p>
-
+<br>
+<br>
 <h1>💻 Tech Stack:</h1> 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge">
@@ -24,7 +25,8 @@ I am currently focused on expanding my knowledge in Cloud Computing, microservic
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate Badge">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge">
 </p>
-
+<br>
+<br>
 <h1>📊 GitHub Stats:</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luciano-Gatti&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
