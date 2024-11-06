@@ -3,6 +3,8 @@
 <h3 align="center">Graduated from the Programming Technician's Degree focused on backend development, with experience in PHP and Java, using MVC frameworks such as Laravel and Spring Boot.
 I am currently focused on expanding my knowledge in Cloud Computing, microservices and APIs.</h3>
 
+<br>
+<br>
 # 💫 About Me:
 🔭 I’m currently working on a desktop application for a nurse plants "RAYZ-Plants", with javaFX, SpringBoot and PostgresQL.<br>
 <br>🌱 I’m currently learning Cloud computing with AWS, Azure and GCP and NoSQL databases like MongoDB.<br>
