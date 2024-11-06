@@ -17,14 +17,16 @@ I am currently focused on expanding my knowledge in Cloud Computing, microservic
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-  ![](https://github-readme-stats.vercel.app/api?username=Luciano-Gatti&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Luciano-Gatti&theme=transparent&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Gatti&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
-# 📊 GitHub Stats:
-<div align="center">
+<h1 align="center">📊 GitHub Stats:</h1>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luciano-Gatti&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luciano-Gatti&theme=transparent&hide_border=false" alt="GitHub Streak"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Gatti&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</p>
+  
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
